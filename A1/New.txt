@@ -1,0 +1,23 @@
+  Verwendeter Py :8
+
+  Breite Höhe: 3280x2464
+
+  matrix:
+  - [1663.5245186730685, 0.0, 1598.982099179083]
+  - [0.0, 1663.5245186730685, 1172.8671523575683]
+  - [0.0, 0.0, 1.0]
+
+  distortion: [-0.3025466315598909, -0.5645998937755728, 0.0, 0.0, 2.442057013982877]
+
+
+total error: 0.07639862901397512
+Bedeutung: Liegt unter weit unter 1 und ist damit als sehr gut einzustufen
+
+Brennweite
+f = fx * delta_x
+f = 1663.5245 * 0.00112 mm
+f = 1.863 mm
+
+Vergkleich zu Ü2: 
+
+fx = 1551,1
